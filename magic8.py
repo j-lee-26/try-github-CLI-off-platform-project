@@ -1,3 +1,4 @@
+# Import the required library #1
 import random
 name = "Joe"
 question = "Will I win the lottery?"
